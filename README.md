@@ -1,3 +1,28 @@
+
+### ✅ `react-game` (Code Breaker)
+# Code Breaker 🎯🧠
+
+A logic-based mini-game built in React, where players guess the secret color combination. Inspired by the classic game *Mastermind*.
+
+## ✨ Features
+- Interactive color selection interface
+- Code validation system
+- Real-time feedback & guess tracking
+- Smooth transitions and neon-styled UI
+
+## 🧰 Tech Stack
+- React
+- useState / useEffect
+- CSS (Dark theme with glowing highlights)
+
+## 🚀 Run locally
+
+--bash
+npm install
+npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
